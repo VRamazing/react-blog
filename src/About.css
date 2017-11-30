@@ -1,0 +1,33 @@
+.info-container{
+   padding:2%;
+   margin: 140px auto 0 auto;
+   color: grey;
+   width:70%;
+   text-align:center;
+   font-size: 1.1em;
+}
+
+.profile-pic{
+    height:200px;
+    width:200px;
+    margin:10px auto;
+    border-radius: 50%;
+    border:10px solid #fff;
+    background-color: white;
+}
+
+.profileLinks{
+    margin-bottom: 20px;
+    color:black;
+}
+
+a.profile-link{
+   font-size: 2em;
+   padding: 2px;
+   color:#00838F;
+   z-index: -1;
+}
+
+a.profile-link:hover{
+   color:gray;
+}

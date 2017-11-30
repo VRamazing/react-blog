@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto',sans-serif;
+}
+
+
+.App-header {
+  background-color: #00838F;
+  height: 180px;
+  padding: 30px;
+  color: white;
+
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin-top: 2em;
+}
+.App-description {
+  font-size: 1.2em;
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.card{width:70%;
+      margin:20px auto;
+      color:#c0c0c0;
+      z-index:1
+      }
+
+
